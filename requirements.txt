@@ -1,0 +1,11 @@
+numpy==1.23.3
+pandas
+matplotlib
+psutil
+scipy
+smac==2.0.0
+openml
+pymoo
+pfevaluator
+jenkspy
+scikit-learn
