@@ -1,6 +1,6 @@
 # Interactive Hyperparameter Optimization in Multi-Objective Problems via Preference Learning
 
-This is the repository of the paper "Interactive Hyperparameter Optimization in Multi-Objective Problems via Preference Learning".
+This is the repository of the paper ["Interactive Hyperparameter Optimization in Multi-Objective Problems via Preference Learning"](https://arxiv.org/abs/2309.03581).
 
 ## Requirements
 
